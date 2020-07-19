@@ -1,0 +1,7 @@
+com\netBanking\Utilities\Reporting.class
+com\netBanking\TestCases\Base.class
+com\netBanking\TestCases\TC_LoginDDT_002.class
+com\netBanking\TestCases\TC_LoginTest_001.class
+com\netBanking\Utilities\XLUtils.class
+com\netBanking\PageObjects\LoginPage.class
+com\netBanking\Utilities\ReadConfig.class
